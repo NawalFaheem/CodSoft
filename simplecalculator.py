@@ -1,7 +1,5 @@
-                       #SIMPLE CALCULATOR
-
 # function for addition
-  def add(num1,num2):
+def add(num1,num2):
   return num1+num2
 # function for subtraction
 def sub(num1,num2):
@@ -31,21 +29,3 @@ elif select==4:
 else:
   print("Invalid Input");
 print("=== Code Execution Successful ===")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-))
